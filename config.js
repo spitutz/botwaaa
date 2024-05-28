@@ -2,20 +2,20 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 global.apikey = 'isi apikey lu'
-global.rosekey = '-' //https://api.itsrose.life
+global.rosekey = 'Rk-224bd5bc0996062e60b4e46bf2877460' //https://api.itsrose.life
 //—————「 Set Nama Bot & Own 」—————//
-global.namabot = 'ɢᴀʙᴜᴛʙᴏᴛ-ʀᴇʙᴏʀɴ'
-global.namaowner = 'ShinySebastian'
+global.namabot = 'Ngacengan'
+global.namaowner = 'Ngacengan'
 
 //—————「 Setting Owner 」—————//
-global.owner = '628116646665'
-global.nomorlu = '6281932309239'
-global.ownernomer = ["628116646665"]
-global.premium = ['628116646665']
+global.owner = '628974887290'
+global.nomorlu = '628974887290'
+global.ownernomer = ["6289668026026"]
+global.premium = ['6289668026026']
 
 //—————「 Set Wm 」—————//
-global.packname = 'GabutBot-Reborn'
-global.author = 'ShinySebastian'
+global.packname = 'Ngacengan'
+global.author = '@noke.sp'
 global.prefa = ['', '.']
 global.sp = '•'
 
